@@ -49,8 +49,8 @@
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.sap.org.apache.httpcomponents</groupId>
-			<artifactId>org.apache.httpcomponents.httpclient</artifactId>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
 			<version>4.2.5</version>
 		</dependency>
 		<dependency>
@@ -59,8 +59,8 @@
 			<version>1.2</version>
 		</dependency>
 		<dependency>
-			<groupId>com.sap.org.apache.httpcomponents</groupId>
-			<artifactId>org.apache.httpcomponents.httpcore</artifactId>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpcore</artifactId>
 			<version>4.2.4</version>
 		</dependency>
 		<dependency>
